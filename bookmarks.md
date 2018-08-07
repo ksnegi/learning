@@ -1,5 +1,5 @@
 # Bookmarks
-* [Articles by Martin Folwer](https://martinfowler.com/articles)
+* [Articles by Martin Fowler](https://martinfowler.com/articles)
     * [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
     * [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
     * [CQRS](https://martinfowler.com/bliki/CQRS.html)
